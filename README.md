@@ -5,6 +5,7 @@ Repositório para atividades desta disciplina
 ## Aula 28/08 - Empresas Multimodais
 <img width="1077" height="506" alt="image" src="https://github.com/user-attachments/assets/42cb8bbe-efb9-4a4c-81c3-ce2a6a19d5a7" />
 <img width="688" height="445" alt="image" src="https://github.com/user-attachments/assets/cacb7672-53f4-4e02-bb0d-29e107ab9dce" />
+
 ## Planilhas eletronicas e dados abertos
 <img width="1063" height="317" alt="image" src="https://github.com/user-attachments/assets/a5ead4a6-a464-49c8-a221-587f2a9a530d" />
 <img width="1046" height="447" alt="image" src="https://github.com/user-attachments/assets/5a2fe65e-8b7e-4584-96db-6a001501d5f7" />
