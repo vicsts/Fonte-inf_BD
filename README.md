@@ -24,6 +24,15 @@ Pergunta 2: Qual categoria teve mais certificados?
 <img width="697" height="492" alt="image" src="https://github.com/user-attachments/assets/51014a5d-d6c5-4d9d-9f2a-129a5afa1130" />
 
 Pergunta 3: Qual tipo de certificado foi mais expedido?
+<img width="677" height="485" alt="image" src="https://github.com/user-attachments/assets/40b675cf-a51e-46d7-9f15-d1f1385c4d1b" />
+
+Pergunta 4: Qual foi a quantidade total de certificados expedidos?
+<img width="605" height="155" alt="image" src="https://github.com/user-attachments/assets/4a0cd9cc-13c3-42b2-9f23-b76359b471af" />
+
+Pergunta 5: Qual município apresentou a menor quantidade de certificados expedidos?
+<img width="481" height="342" alt="image" src="https://github.com/user-attachments/assets/6b9f975b-298d-4902-9df7-984bdaf4e4b7" />
+
+
 
 
 
