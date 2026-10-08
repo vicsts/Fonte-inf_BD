@@ -11,8 +11,19 @@ Repositório para atividades desta disciplina
 <img width="1046" height="447" alt="image" src="https://github.com/user-attachments/assets/5a2fe65e-8b7e-4584-96db-6a001501d5f7" />
 <img width="482" height="351" alt="image" src="https://github.com/user-attachments/assets/70877ee9-6375-4739-bfe1-a16e0e0aff55" />
 
-
-
 ## empresas multimodais no power bi
 <img width="1314" height="717" alt="image" src="https://github.com/user-attachments/assets/4213c0ea-079e-4a46-a86f-4035d7c35365" />
+
+## Análise de dados - Certificados Expedidos
+Fonte: https://0010068detrandadoabprdsa.blob.core.windows.net/detran-public/dados-abertos/certificados/Jan-2025/31/certificados.csv?sp=r&st=2026-05-15T16:49:14Z&se=2027-05-15T03:00:00Z&spr=https&sv=2025-11-05&sr=c&sig=ylRiD8xZxlulYOcxzK8g8a0NFu%2BI5zBi5Acp13JrL%2B4%3D
+
+Pergunta 1: Qual foi a quantidade total de certificados expedidos por município?
+<img width="588" height="417" alt="image" src="https://github.com/user-attachments/assets/40a6375a-8f14-4c9a-9644-960955866619" />
+
+Pergunta 2: Qual categoria teve mais certificados?
+<img width="697" height="492" alt="image" src="https://github.com/user-attachments/assets/51014a5d-d6c5-4d9d-9f2a-129a5afa1130" />
+
+Pergunta 3: Qual tipo de certificado foi mais expedido?
+
+
 
