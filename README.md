@@ -2,6 +2,7 @@
 Repositório para atividades desta disciplina 
 
 ## Apresentação em equipe
+Fonte: https://www.canva.com/design/DAHSQ7I3CmY/xUpW03vKDc82RiS_js6OgA/view?utm_content=DAHSQ7I3CmY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc98ef8fb26
 
 <img width="1815" height="922" alt="image" src="https://github.com/user-attachments/assets/c12ca27d-1cec-493c-90cc-a092da3bed89" />
 
