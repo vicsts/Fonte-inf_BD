@@ -40,6 +40,11 @@ Pergunta 5: Qual município apresentou a menor quantidade de certificados expedi
 
 <img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/afc1caf1-9432-477b-b885-500436e41d6f" />
 
+## arquivo referentes à Nupcialidade - prova
+
+<img width="1037" height="611" alt="image" src="https://github.com/user-attachments/assets/718944d3-641c-4fb6-8f70-54f07af941c2" />
+
+
 
 
 
