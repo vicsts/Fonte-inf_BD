@@ -36,6 +36,11 @@ Pergunta 4: Qual foi a quantidade total de certificados expedidos?
 Pergunta 5: Qual município apresentou a menor quantidade de certificados expedidos?
 <img width="475" height="328" alt="image" src="https://github.com/user-attachments/assets/727c3c69-445e-477a-bc4e-9a6fb6c451a1" />
 
+## Gráfico Dispersão Resultante 
+
+<img width="1441" height="811" alt="image" src="https://github.com/user-attachments/assets/afc1caf1-9432-477b-b885-500436e41d6f" />
+
+
 
 
 
